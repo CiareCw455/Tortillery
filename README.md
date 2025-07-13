@@ -2,24 +2,24 @@
   <img src="assets/logo.png" alt="Tortillery Logo" width="200">
 </p>
 
-# Tortillery
+# Tortillery - Firmware personalizado para Artillery Sidewinder X4  
+# Tortillery - Custom Firmware for Artillery Sidewinder X4  
 
-**Tortillery** es un firmware *custom* (aún en versión de prueba) para las impresoras **Artillery Sidewinder X4 Pro** y **X4 Plus** (incluidas también las versiones **S1**).
 
-Este proyecto reemplaza el firmware original por:
+## ES Español
 
-- Un Armbian más reciente.  
-- La última versión de Klipper (v13).  
-- Eliminación de todas las dependencias problemáticas del firmware original.  
-- Corrección de errores conocidos (como los problemas con el Z-offset).  
-- Un firmware de pantalla personalizado que incluye la mayoría de las funciones originales.  
-- Multi Idiomas
+### ✨ Características
+Firmware personalizado para **Artillery Sidewinder X4 Pro/X4 Plus** (incluyendo versiones S1):
 
-Tortillery es totalmente personalizable e incluye archivos básicos para un funcionamiento listo para imprimir.  
+- ✅ **Armbian actualizado**
+- ✅ **Klipper v13** 
+- ✅ Eliminación de dependencias problemáticas
+- ✅ Corrección de errores conocidos (incluyendo Z-offset)
+- ✅ Firmware personalizado para pantalla (mantiene funciones originales)
+- ✅ **Soporte multidioma**
+- ✅ Configuración lista para imprimir
 
-No se ha incluido la función de reanudar impresión tras un corte de energía. Si tienes problemas de suministro eléctrico, se recomienda utilizar un UPS/SAI.  
-
-Además, hemos preparado una guía de instalación para facilitarte el proceso.
+⚠ **Nota:** No incluye reanudación tras corte de energía. Se recomienda **UPS** si hay inestabilidad eléctrica.
 
 ---
 
@@ -44,7 +44,7 @@ Gracias a todos ellos por hacer que Tortillery sea una realidad.
 
 ## Estado del proyecto
 
-Actualmente se ha comprobado el funcionamiento completo del firmware. No obstante, pueden surgir pequeños errores.
+Actualmente se ha comprobado el funcionamiento completo del firmware.
 
 Comenta cualquier problema en la sección “Tortillery” del grupo de Telegram:  
 [**Soporte Artillery X4 (Sección Tortillery)**](https://t.me/SoporteArtilleryX4)
@@ -63,3 +63,66 @@ Este proyecto incluye componentes con las siguientes licencias:
 Por compatibilidad, **Tortillery en su conjunto está licenciado bajo [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)**.
 
 ---
+
+<a id="english"></a>
+## 🇬🇧 English
+
+### ✨ Features
+Custom firmware (beta) for **Artillery Sidewinder X4 Pro/X4 Plus** (including S1 variants):
+
+- ✅ **Updated Armbian**
+- ✅ **Klipper v13** 
+- ✅ Removed problematic dependencies
+- ✅ Fixed known issues (including Z-offset)
+- ✅ Custom display firmware (retains original functions)
+- ✅ **Multi-language support**
+- ✅ Plug-and-play configuration
+
+⚠ **Note:** Power-loss recovery not included. Use a **UPS** if power is unstable.
+
+---
+
+## 📥 Download the complete project
+
+You can download the full project (including firmware, guides, configurations, and backups) from the following link:
+
+👉 [**Download Tortillery from Google Drive**](https://drive.google.com/drive/folders/1a4KYi0Am1W0iZ-H57P1Rgm2st5KSfFTt?usp=sharing)
+
+--- 
+
+## Acknowledgments
+
+Although this project started more than a year ago, only in the last few months have we been able to complete it. This work would not have been possible without the help of:  
+
+- **Urtzi**, **Repuk**, **Vin** (for their contributions in the Telegram group).  
+- **Redrathnure**, for the excellent [unofficial Armbian](https://github.com/redrathnure/armbian-mkspi).  
+- **Joakimtoe**, for the display firmware for Neptune 3 Pro ([KlipperLCD](https://github.com/joakimtoe/KlipperLCD)).  
+
+Thanks to all of them for making Tortillery a reality.  
+
+--- 
+
+## Project Status
+
+The firmware has been fully tested and is working properly.
+
+Report any issues in the “Tortillery” section of the Telegram group:  
+[**Artillery X4 Support (Tortillery Section)**](https://t.me/SoporteArtilleryX4)
+
+If you want to add, modify, or improve the firmware, we’ll be happy to collaborate with you.
+
+---
+
+## 📜 License
+
+This project includes components with the following licenses:
+
+- **GPL-2.0 or later** (armbian-mkspi)  
+- **Apache-2.0** (KlipperLCD)  
+
+For compatibility, **Tortillery as a whole is licensed under [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)**.
+
+--- 
+<div align="center">
+  <sub>Creado con ❤️ por la comunidad Tortillery | Made with ❤️ by the Tortillery community</sub>
+</div>
