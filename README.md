@@ -6,7 +6,8 @@
 # Tortillery - Custom Firmware for Artillery Sidewinder X4  
 
 
-## ES Español
+## 🇪🇸 Español
+
 
 ### ✨ Características
 Firmware personalizado para **Artillery Sidewinder X4 Pro/X4 Plus** (incluyendo versiones S1):
@@ -64,7 +65,7 @@ Por compatibilidad, **Tortillery en su conjunto está licenciado bajo [GPL-3.0](
 
 ---
 
-<a id="english"></a>
+
 ## 🇬🇧 English
 
 ### ✨ Features
