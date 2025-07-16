@@ -31,6 +31,12 @@ Puedes descargar el proyecto completo (incluyendo el firmware, guías, configura
 👉 [**Descargar Tortillery desde Google Drive**](https://drive.google.com/drive/folders/1a4KYi0Am1W0iZ-H57P1Rgm2st5KSfFTt?usp=sharing)
 ---
 
+
+## 📺 [**Video tutorial instalación Tortillery en Youtube**](https://youtu.be/uqHxVz3ia8g?si=T52tDqVlzPWug_Cy)
+
+---
+
+
 ## Agradecimientos
 
 Aunque el proyecto comenzó hace más de un año, solo en los últimos meses hemos podido completarlo. Este trabajo no habría sido posible sin la ayuda de:  
@@ -88,6 +94,10 @@ Custom firmware (beta) for **Artillery Sidewinder X4 Pro/X4 Plus** (including S1
 You can download the full project (including firmware, guides, configurations, and backups) from the following link:
 
 👉 [**Download Tortillery from Google Drive**](https://drive.google.com/drive/folders/1a4KYi0Am1W0iZ-H57P1Rgm2st5KSfFTt?usp=sharing)
+
+--- 
+
+## 📺 [**Tortillery installation video tutorial on Youtube**](https://youtu.be/uqHxVz3ia8g?si=T52tDqVlzPWug_Cy)
 
 --- 
 
